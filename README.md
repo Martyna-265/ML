@@ -1,6 +1,8 @@
+# Machine Learning
+
 Python projects made for the Machine Learning course during the fourth semester (2024/2025) at WUT.
 
-## Project 1 - Diabetes Prediction Project
+# Project 1 - Diabetes Prediction Project
 
 This project focuses on predicting whether a person is at risk of having diabetes using a dataset containing health and demographic data of 100,000 individuals. The goal was to create a machine learning model that could contribute to medical research and assist healthcare professionals in early diagnosis, allowing for timely intervention and lifestyle modifications.
 
@@ -9,11 +11,11 @@ The project was carried out end-to-end, including data preprocessing, feature se
 
 The project was implemented in Python using libraries such as Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, and SHAP.
 
-# Authors
+## Authors
 - [Martyna Sadowska](https://github.com/Martyna-265)
 - [Katarzyna Skoczylas](https://github.com/kasia-sko)
 
-# Validators
+## Validators
 - [Jakub Rybak](https://github.com/JakubRybak)
 - [Mateusz Stasiak](https://github.com/StaryDron)
 
